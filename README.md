@@ -33,10 +33,4 @@ This is a full-stack E-Commerce web application built using the MERN stack (Mong
 - Admin Panel: React + Vite
 - Tools: Axios, Multer, Mongoose
 
----
 
-## 🚀 How to Run Locally
-
-## 1. Clone the repository:
-```bash
-git clone https://github.com/VinaySingh8173/Shopper_E-Commerce.git
